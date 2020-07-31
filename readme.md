@@ -4,8 +4,10 @@
 
 [![varad.tk](https://img.shields.io/static/v1?label=varad.tk&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://varad.tk/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/varad.r.p/)
-[![varadrpatil27@gmail.com](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:varadrpatil27@gmail.com)
 
+###
+###
+###
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-969249%20Lines%20of%20code-blue)
