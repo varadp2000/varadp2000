@@ -1,4 +1,4 @@
-Varad is an extremely hard working boy, he is dedicated and determined to achieve his goal. Lots of effort has made him among the best developers in the class
+Varad Patil is an extremely hard working boy, he is dedicated and determined to achieve his goal. Lots of effort has made him among the best developers in the class
 
 
 Lets make a story by adding random studd, xD
@@ -9,6 +9,8 @@ Projects
 Todo App
 Recrutify Portal
 Path Finder
+Image Classifier
+Stocks Finder
 
 My skills 
 
