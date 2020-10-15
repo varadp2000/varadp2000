@@ -22,3 +22,8 @@ CSS
 Javascript
 PHP
 
+Education Scores
+
+SSC- 92.2
+HSC -83.2
+CGPA-8.39
