@@ -10,13 +10,13 @@
 ###
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-826290%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 513 Contributions in the Year 2020
+> 🏆 529 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -29,8 +29,8 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-🌆 Daytime    129 commits    █████████░░░░░░░░░░░░░░░░   35.54% 
+🌞 Morning    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+🌆 Daytime    126 commits    ████████░░░░░░░░░░░░░░░░░   34.71% 
 🌃 Evening    159 commits    ███████████░░░░░░░░░░░░░░   43.8% 
 🌙 Night      60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53%
 
