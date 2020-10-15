@@ -1,3 +1,13 @@
 Lets make a story by adding random studd, xD
 This is my timepass commit for pull_request, xD.
 
+My skills 
+
+React 
+VueJs
+NodeJS
+Html
+CSS
+Javascript
+PHP
+
