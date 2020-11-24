@@ -91,7 +91,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/varadp2000/varadp2000/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/varadp2000/varadp2000/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
