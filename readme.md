@@ -2,7 +2,7 @@
 
 ### Hi there I'm Varad
 
-[![varad.tk](https://img.shields.io/static/v1?label=varad.tk&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://varad.tk/)
+[![let-varad.me](https://img.shields.io/static/v1?label=let-varad.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://let-varad.me/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/varad.r.p/)
 
 ###
@@ -10,17 +10,12 @@
 ###
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-505773%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 15 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
  > 
 > 📜 42 Public Repositories 
  > 
@@ -87,14 +82,9 @@ Java                     3 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/varadp2000/varadp2000/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 
-👨‍💻 20 Years old Developer  
-👨‍🎓 Studying Computer Science in University of Mumbai
-🚧 **Current Project:** [Mangoo Web](https://github.com/varadp2000/mongoo-web)
+👨‍💻 25 Years old Developer  
+👨‍🎓 Working at Momo Medical
+🚧 **Current Project:** [Het Woord](https://github.com/varadp2000/het-woord)
