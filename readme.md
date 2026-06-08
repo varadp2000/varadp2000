@@ -10,78 +10,90 @@
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-505773%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.27%20million%20lines%20of%20code-blue?style=flat)
 
-> 🏆 15 Contributions in the Year 2021
+**🐱 My GitHub Data** 
+
+> 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 📜 42 Public Repositories 
+> 🏆 29 Contributions in the Year 2026
  > 
-> 🔑 0 Private Repositories  
+> 💼 Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 38 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
-🌆 Daytime    111 commits    ████████░░░░░░░░░░░░░░░░░   35.02% 
-🌃 Evening    149 commits    ███████████░░░░░░░░░░░░░░   47.0% 
-🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3%
-
+🌞 Morning                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+🌆 Daytime                591 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
+🌃 Evening                804 commits         ████████████░░░░░░░░░░░░░   47.41 % 
+🌙 Night                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-Thursday     123 commits    █████████░░░░░░░░░░░░░░░░   38.8% 
-Friday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Sunday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
-
+Monday                   310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Tuesday                  364 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Wednesday                151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Thursday                 380 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Sunday                   133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 19 mins       █████████████████░░░░░░░░   68.84% 
-JavaScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-C++                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.83% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+TypeScript               12 hrs 47 mins      █████████████░░░░░░░░░░░░   53.53 % 
+Markdown                 4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Python                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+C#                       1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TeX                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 44 mins       █████████████████████████   100.0%
+Claude Code              19 hrs 50 mins      █████████████████████░░░░   83.00 % 
+VS Code                  4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 
 🐱‍💻 Projects: 
-Hackplanet Technology    6 hrs 13 mins       ████████████████████░░░░░   80.38% 
-cpp                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-book-tracker             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
-about-us-contact-us      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+integrations-handlers    13 hrs 25 mins      ██████████████░░░░░░░░░░░   56.13 % 
+MilkingSystemAssessment-C2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+portfolio                2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+VaradPatil-Resume        2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+otiom-mcode-generator    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 💻 Operating System: 
-Windows                  7 hrs 44 mins       █████████████████████████   100.0%
-
+Mac                      23 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Vue                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19% 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+JavaScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/varadp2000/varadp2000/master/assets/bar_graph.png)
+
+
+ Last Updated on 08/06/2026 21:08:54 UTC
 <!--END_SECTION:waka-->
 
 
